@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24226" started-at="2020-07-06T18:12:18 EDT" finished-at="2020-07-06T18:12:43 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24226" started-at="2020-07-06T18:12:18 EDT" finished-at="2020-07-06T18:12:43 EDT">
+      <class name="session5.newDepositTest">
+        <test-method status="PASS" signature="lunchbrowser()[pri:0, instance:session5.newDepositTest@5e853265]" name="lunchbrowser" is-config="true" duration-ms="4055" started-at="2020-07-06T18:12:18 EDT" finished-at="2020-07-06T18:12:22 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lunchbrowser -->
+        <test-method status="PASS" signature="userShouldBeAbleToAddDeposite()[pri:0, instance:session5.newDepositTest@5e853265]" name="userShouldBeAbleToAddDeposite" duration-ms="19500" started-at="2020-07-06T18:12:22 EDT" finished-at="2020-07-06T18:12:42 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userShouldBeAbleToAddDeposite -->
+        <test-method status="PASS" signature="closeEverything()[pri:0, instance:session5.newDepositTest@5e853265]" name="closeEverything" is-config="true" duration-ms="633" started-at="2020-07-06T18:12:42 EDT" finished-at="2020-07-06T18:12:43 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeEverything -->
+      </class> <!-- session5.newDepositTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
